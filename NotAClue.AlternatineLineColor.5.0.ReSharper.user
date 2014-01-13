@@ -1,0 +1,31 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="7CD4A56E-FD08-4C05-977E-DE2F58433065/f:AlternatingLineColorAdornment.cs" caret="1598" fromTop="36" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="7CD4A56E-FD08-4C05-977E-DE2F58433065/f:AlternatingLineColorAdornment.cs" caret="1666" fromTop="47" />
+      <File id="7CD4A56E-FD08-4C05-977E-DE2F58433065/f:AlternatingLineColorAdornment.cs" caret="2338" fromTop="37" />
+      <File id="7CD4A56E-FD08-4C05-977E-DE2F58433065/f:AlternatingLineColorAdornment.cs" caret="901" fromTop="31" />
+      <File id="7CD4A56E-FD08-4C05-977E-DE2F58433065/f:AlternatingLineColorAdornment.cs" caret="2002" fromTop="47" />
+    </RecentEdits>
+  </RecentFiles>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir IsNull="False">
+    </NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+</Configuration>

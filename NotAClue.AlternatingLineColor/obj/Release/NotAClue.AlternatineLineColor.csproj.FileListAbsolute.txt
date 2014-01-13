@@ -1,0 +1,33 @@
+D:\Users\sjnaughton\documents\visual studio 2010\Projects\NotAClue.AlternatineLineColor\NotAClue.AlternatineLineColor\bin\Release\Licence.txt
+D:\Users\sjnaughton\documents\visual studio 2010\Projects\NotAClue.AlternatineLineColor\NotAClue.AlternatineLineColor\bin\Release\vsix_AlternatineLineColorTextAdornment_large.png
+D:\Users\sjnaughton\documents\visual studio 2010\Projects\NotAClue.AlternatineLineColor\NotAClue.AlternatineLineColor\bin\Release\vsix_AlternatineLineColorTextAdornment_small.png
+D:\Users\sjnaughton\documents\visual studio 2010\Projects\NotAClue.AlternatineLineColor\NotAClue.AlternatineLineColor\bin\Release\NotAClue.AlternatineLineColor.dll
+D:\Users\sjnaughton\documents\visual studio 2010\Projects\NotAClue.AlternatineLineColor\NotAClue.AlternatineLineColor\bin\Release\NotAClue.AlternatineLineColor.pdb
+D:\Users\sjnaughton\documents\visual studio 2010\Projects\NotAClue.AlternatineLineColor\NotAClue.AlternatineLineColor\bin\Release\NotAClue.AlternatineLineColor.vsix
+D:\Users\sjnaughton\documents\visual studio 2010\Projects\NotAClue.AlternatineLineColor\NotAClue.AlternatineLineColor\bin\Release\extension.vsixmanifest
+D:\Users\sjnaughton\documents\visual studio 2010\Projects\NotAClue.AlternatineLineColor\NotAClue.AlternatineLineColor\obj\Release\ResolveAssemblyReference.cache
+D:\Users\sjnaughton\documents\visual studio 2010\Projects\NotAClue.AlternatineLineColor\NotAClue.AlternatineLineColor\obj\Release\NotAClue.AlternatineLineColor.dll
+D:\Users\sjnaughton\documents\visual studio 2010\Projects\NotAClue.AlternatineLineColor\NotAClue.AlternatineLineColor\obj\Release\NotAClue.AlternatineLineColor.pdb
+D:\Users\sjnaughton\documents\visual studio 2010\Projects\NotAClue.AlternatineLineColor\NotAClue.AlternatineLineColor\obj\Release\extension.vsixmanifest
+D:\Users\Stephen J. Naughton\Documents\Visual Studio 2010\Projects\NotAClue.AlternatineLineColor\NotAClue.AlternatineLineColor\bin\Release\Licence.txt
+D:\Users\Stephen J. Naughton\Documents\Visual Studio 2010\Projects\NotAClue.AlternatineLineColor\NotAClue.AlternatineLineColor\bin\Release\vsix_AlternatineLineColorTextAdornment_large.png
+D:\Users\Stephen J. Naughton\Documents\Visual Studio 2010\Projects\NotAClue.AlternatineLineColor\NotAClue.AlternatineLineColor\bin\Release\vsix_AlternatineLineColorTextAdornment_small.png
+D:\Users\Stephen J. Naughton\Documents\Visual Studio 2010\Projects\NotAClue.AlternatineLineColor\NotAClue.AlternatineLineColor\bin\Release\NotAClue.AlternatineLineColor.dll
+D:\Users\Stephen J. Naughton\Documents\Visual Studio 2010\Projects\NotAClue.AlternatineLineColor\NotAClue.AlternatineLineColor\bin\Release\NotAClue.AlternatineLineColor.pdb
+D:\Users\Stephen J. Naughton\Documents\Visual Studio 2010\Projects\NotAClue.AlternatineLineColor\NotAClue.AlternatineLineColor\bin\Release\NotAClue.AlternatineLineColor.vsix
+D:\Users\Stephen J. Naughton\Documents\Visual Studio 2010\Projects\NotAClue.AlternatineLineColor\NotAClue.AlternatineLineColor\bin\Release\extension.vsixmanifest
+D:\Users\Stephen J. Naughton\Documents\Visual Studio 2010\Projects\NotAClue.AlternatineLineColor\NotAClue.AlternatineLineColor\obj\Release\ResolveAssemblyReference.cache
+D:\Users\Stephen J. Naughton\Documents\Visual Studio 2010\Projects\NotAClue.AlternatineLineColor\NotAClue.AlternatineLineColor\obj\Release\NotAClue.AlternatineLineColor.dll
+D:\Users\Stephen J. Naughton\Documents\Visual Studio 2010\Projects\NotAClue.AlternatineLineColor\NotAClue.AlternatineLineColor\obj\Release\NotAClue.AlternatineLineColor.pdb
+D:\Users\Stephen J. Naughton\Documents\Visual Studio 2010\Projects\NotAClue.AlternatineLineColor\NotAClue.AlternatineLineColor\obj\Release\extension.vsixmanifest
+D:\Users\sjnaughton\Documents\Visual Studio 2010\Projects\VSIX\NotAClue.AlternatineLineColor\NotAClue.AlternatineLineColor\bin\Release\Licence.txt
+D:\Users\sjnaughton\Documents\Visual Studio 2010\Projects\VSIX\NotAClue.AlternatineLineColor\NotAClue.AlternatineLineColor\bin\Release\vsix_AlternatineLineColorTextAdornment_large.png
+D:\Users\sjnaughton\Documents\Visual Studio 2010\Projects\VSIX\NotAClue.AlternatineLineColor\NotAClue.AlternatineLineColor\bin\Release\vsix_AlternatineLineColorTextAdornment_small.png
+D:\Users\sjnaughton\Documents\Visual Studio 2010\Projects\VSIX\NotAClue.AlternatineLineColor\NotAClue.AlternatineLineColor\bin\Release\NotAClue.AlternatineLineColor.dll
+D:\Users\sjnaughton\Documents\Visual Studio 2010\Projects\VSIX\NotAClue.AlternatineLineColor\NotAClue.AlternatineLineColor\bin\Release\NotAClue.AlternatineLineColor.pdb
+D:\Users\sjnaughton\Documents\Visual Studio 2010\Projects\VSIX\NotAClue.AlternatineLineColor\NotAClue.AlternatineLineColor\bin\Release\NotAClue.AlternatineLineColor.vsix
+D:\Users\sjnaughton\Documents\Visual Studio 2010\Projects\VSIX\NotAClue.AlternatineLineColor\NotAClue.AlternatineLineColor\bin\Release\extension.vsixmanifest
+D:\Users\sjnaughton\Documents\Visual Studio 2010\Projects\VSIX\NotAClue.AlternatineLineColor\NotAClue.AlternatineLineColor\obj\Release\ResolveAssemblyReference.cache
+D:\Users\sjnaughton\Documents\Visual Studio 2010\Projects\VSIX\NotAClue.AlternatineLineColor\NotAClue.AlternatineLineColor\obj\Release\NotAClue.AlternatineLineColor.dll
+D:\Users\sjnaughton\Documents\Visual Studio 2010\Projects\VSIX\NotAClue.AlternatineLineColor\NotAClue.AlternatineLineColor\obj\Release\NotAClue.AlternatineLineColor.pdb
+D:\Users\sjnaughton\Documents\Visual Studio 2010\Projects\VSIX\NotAClue.AlternatineLineColor\NotAClue.AlternatineLineColor\obj\Release\extension.vsixmanifest

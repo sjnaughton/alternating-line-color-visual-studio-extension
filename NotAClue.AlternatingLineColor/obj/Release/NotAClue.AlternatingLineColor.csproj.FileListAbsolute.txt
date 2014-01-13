@@ -1,0 +1,44 @@
+D:\Users\sjnaughton\Documents\Visual Studio 2010\Projects\VSIX\NotAClue.AlternatingLineColor\NotAClue.AlternatingLineColor\bin\Release\Licence.txt
+D:\Users\sjnaughton\Documents\Visual Studio 2010\Projects\VSIX\NotAClue.AlternatingLineColor\NotAClue.AlternatingLineColor\bin\Release\NotAClue.AlternatingLineColor.dll
+D:\Users\sjnaughton\Documents\Visual Studio 2010\Projects\VSIX\NotAClue.AlternatingLineColor\NotAClue.AlternatingLineColor\bin\Release\NotAClue.AlternatingLineColor.pdb
+D:\Users\sjnaughton\Documents\Visual Studio 2010\Projects\VSIX\NotAClue.AlternatingLineColor\NotAClue.AlternatingLineColor\obj\Release\ResolveAssemblyReference.cache
+D:\Users\sjnaughton\Documents\Visual Studio 2010\Projects\VSIX\NotAClue.AlternatingLineColor\NotAClue.AlternatingLineColor\obj\Release\NotAClue.AlternatingLineColor.dll
+D:\Users\sjnaughton\Documents\Visual Studio 2010\Projects\VSIX\NotAClue.AlternatingLineColor\NotAClue.AlternatingLineColor\obj\Release\NotAClue.AlternatingLineColor.pdb
+D:\Users\sjnaughton\Documents\Visual Studio 2010\Projects\VSIX\NotAClue.AlternatingLineColor\NotAClue.AlternatingLineColor\bin\Release\vsix_AlternatingLineColorTextAdornment_large.png
+D:\Users\sjnaughton\Documents\Visual Studio 2010\Projects\VSIX\NotAClue.AlternatingLineColor\NotAClue.AlternatingLineColor\bin\Release\vsix_AlternatingLineColorTextAdornment_small.png
+D:\Users\sjnaughton\Documents\Visual Studio 2010\Projects\VSIX\NotAClue.AlternatingLineColor\NotAClue.AlternatingLineColor\bin\Release\NotAClue.AlternatingLineColor.vsix
+D:\Users\sjnaughton\Documents\Visual Studio 2010\Projects\VSIX\NotAClue.AlternatingLineColor\NotAClue.AlternatingLineColor\bin\Release\extension.vsixmanifest
+D:\Users\sjnaughton\Documents\Visual Studio 2010\Projects\VSIX\NotAClue.AlternatingLineColor\NotAClue.AlternatingLineColor\obj\Release\extension.vsixmanifest
+D:\VS2012\NotAClue\NotAClue.AlternatingLineColor\NotAClue.AlternatingLineColor\bin\Release\Licence.txt
+D:\VS2012\NotAClue\NotAClue.AlternatingLineColor\NotAClue.AlternatingLineColor\bin\Release\vsix_AlternatingLineColorTextAdornment_large.png
+D:\VS2012\NotAClue\NotAClue.AlternatingLineColor\NotAClue.AlternatingLineColor\bin\Release\vsix_AlternatingLineColorTextAdornment_small.png
+D:\VS2012\NotAClue\NotAClue.AlternatingLineColor\NotAClue.AlternatingLineColor\bin\Release\NotAClue.AlternatingLineColor.dll
+D:\VS2012\NotAClue\NotAClue.AlternatingLineColor\NotAClue.AlternatingLineColor\bin\Release\NotAClue.AlternatingLineColor.pdb
+D:\VS2012\NotAClue\NotAClue.AlternatingLineColor\NotAClue.AlternatingLineColor\bin\Release\NotAClue.AlternatingLineColor.vsix
+D:\VS2012\NotAClue\NotAClue.AlternatingLineColor\NotAClue.AlternatingLineColor\bin\Release\extension.vsixmanifest
+D:\VS2012\NotAClue\NotAClue.AlternatingLineColor\NotAClue.AlternatingLineColor\obj\Release\NotAClue.AlternatingLineColor.csprojResolveAssemblyReference.cache
+D:\VS2012\NotAClue\NotAClue.AlternatingLineColor\NotAClue.AlternatingLineColor\obj\Release\NotAClue.AlternatingLineColor.dll
+D:\VS2012\NotAClue\NotAClue.AlternatingLineColor\NotAClue.AlternatingLineColor\obj\Release\NotAClue.AlternatingLineColor.pdb
+D:\VS2012\NotAClue\NotAClue.AlternatingLineColor\NotAClue.AlternatingLineColor\obj\Release\extension.vsixmanifest
+D:\VS2012\NotAClue\NotAClue.AlternatingLineColor2012\NotAClue.AlternatingLineColor\bin\Release\Licence.txt
+D:\VS2012\NotAClue\NotAClue.AlternatingLineColor2012\NotAClue.AlternatingLineColor\bin\Release\vsix_AlternatingLineColorTextAdornment_large.png
+D:\VS2012\NotAClue\NotAClue.AlternatingLineColor2012\NotAClue.AlternatingLineColor\bin\Release\vsix_AlternatingLineColorTextAdornment_small.png
+D:\VS2012\NotAClue\NotAClue.AlternatingLineColor2012\NotAClue.AlternatingLineColor\bin\Release\NotAClue.AlternatingLineColor.dll
+D:\VS2012\NotAClue\NotAClue.AlternatingLineColor2012\NotAClue.AlternatingLineColor\bin\Release\NotAClue.AlternatingLineColor.pdb
+D:\VS2012\NotAClue\NotAClue.AlternatingLineColor2012\NotAClue.AlternatingLineColor\bin\Release\NotAClue.AlternatingLineColor.vsix
+D:\VS2012\NotAClue\NotAClue.AlternatingLineColor2012\NotAClue.AlternatingLineColor\bin\Release\extension.vsixmanifest
+D:\VS2012\NotAClue\NotAClue.AlternatingLineColor2012\NotAClue.AlternatingLineColor\obj\Release\NotAClue.AlternatingLineColor.csprojResolveAssemblyReference.cache
+D:\VS2012\NotAClue\NotAClue.AlternatingLineColor2012\NotAClue.AlternatingLineColor\obj\Release\NotAClue.AlternatingLineColor.dll
+D:\VS2012\NotAClue\NotAClue.AlternatingLineColor2012\NotAClue.AlternatingLineColor\obj\Release\NotAClue.AlternatingLineColor.pdb
+D:\VS2012\NotAClue\NotAClue.AlternatingLineColor2012\NotAClue.AlternatingLineColor\obj\Release\extension.vsixmanifest
+D:\VS2013\NotAClue\VS Extensions\NotAClue.AlternatingLineColor\NotAClue.AlternatingLineColor\bin\Release\Licence.txt
+D:\VS2013\NotAClue\VS Extensions\NotAClue.AlternatingLineColor\NotAClue.AlternatingLineColor\bin\Release\vsix_AlternatingLineColorTextAdornment_large.png
+D:\VS2013\NotAClue\VS Extensions\NotAClue.AlternatingLineColor\NotAClue.AlternatingLineColor\bin\Release\vsix_AlternatingLineColorTextAdornment_small.png
+D:\VS2013\NotAClue\VS Extensions\NotAClue.AlternatingLineColor\NotAClue.AlternatingLineColor\bin\Release\NotAClue.AlternatingLineColor.dll
+D:\VS2013\NotAClue\VS Extensions\NotAClue.AlternatingLineColor\NotAClue.AlternatingLineColor\bin\Release\NotAClue.AlternatingLineColor.pdb
+D:\VS2013\NotAClue\VS Extensions\NotAClue.AlternatingLineColor\NotAClue.AlternatingLineColor\bin\Release\NotAClue.AlternatingLineColor.vsix
+D:\VS2013\NotAClue\VS Extensions\NotAClue.AlternatingLineColor\NotAClue.AlternatingLineColor\bin\Release\extension.vsixmanifest
+D:\VS2013\NotAClue\VS Extensions\NotAClue.AlternatingLineColor\NotAClue.AlternatingLineColor\obj\Release\NotAClue.AlternatingLineColor.csprojResolveAssemblyReference.cache
+D:\VS2013\NotAClue\VS Extensions\NotAClue.AlternatingLineColor\NotAClue.AlternatingLineColor\obj\Release\NotAClue.AlternatingLineColor.dll
+D:\VS2013\NotAClue\VS Extensions\NotAClue.AlternatingLineColor\NotAClue.AlternatingLineColor\obj\Release\NotAClue.AlternatingLineColor.pdb
+D:\VS2013\NotAClue\VS Extensions\NotAClue.AlternatingLineColor\NotAClue.AlternatingLineColor\obj\Release\extension.vsixmanifest

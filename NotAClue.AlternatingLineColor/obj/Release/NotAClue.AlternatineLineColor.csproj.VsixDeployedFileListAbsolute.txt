@@ -1,0 +1,12 @@
+D:\Users\Stephen J. Naughton\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\Stephen J. Naughton\Alternatine Line Color\1.0\\NotAClue.AlternatineLineColor.dll
+D:\Users\Stephen J. Naughton\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\Stephen J. Naughton\Alternatine Line Color\1.0\\extension.vsixmanifest
+D:\Users\Stephen J. Naughton\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\Stephen J. Naughton\Alternatine Line Color\1.0\\Licence.txt
+D:\Users\Stephen J. Naughton\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\Stephen J. Naughton\Alternatine Line Color\1.0\\vsix_AlternatineLineColorTextAdornment_large.png
+D:\Users\Stephen J. Naughton\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\Stephen J. Naughton\Alternatine Line Color\1.0\\vsix_AlternatineLineColorTextAdornment_small.png
+D:\Users\Stephen J. Naughton\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\Stephen J. Naughton\Alternatine Line Color\1.0\\NotAClue.AlternatineLineColor.pdb
+D:\Users\sjnaughton\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\Stephen J. Naughton\Alternatine Line Color\1.0\\NotAClue.AlternatineLineColor.dll
+D:\Users\sjnaughton\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\Stephen J. Naughton\Alternatine Line Color\1.0\\extension.vsixmanifest
+D:\Users\sjnaughton\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\Stephen J. Naughton\Alternatine Line Color\1.0\\Licence.txt
+D:\Users\sjnaughton\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\Stephen J. Naughton\Alternatine Line Color\1.0\\vsix_AlternatineLineColorTextAdornment_large.png
+D:\Users\sjnaughton\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\Stephen J. Naughton\Alternatine Line Color\1.0\\vsix_AlternatineLineColorTextAdornment_small.png
+D:\Users\sjnaughton\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\Stephen J. Naughton\Alternatine Line Color\1.0\\NotAClue.AlternatineLineColor.pdb
